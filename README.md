@@ -16,7 +16,7 @@ Since 2018 I have built camera-based measurement systems end to end, from imagin
 - **Structured light and calibration:** a Blender-based virtual structured-light system with ray-traced ground truth, and a "3D precision volume" that maps where a calibration can be trusted (ICASI 2026); a C++ projector–camera system for robotic-arm object segmentation (M.S. thesis).
 - **Neural 3D reconstruction:** COLMAP, instant-ngp and Nerfstudio pipelines for NeRF / 3D Gaussian Splatting in industry projects, extended to robotic grasping and image inspection.
 
-Lab and industry code is proprietary; the open-source repositories below are re-implementations and tooling on public or synthetic data. Project write-ups will be published on my personal site.
+The repositories below are open-source re-implementations and tooling built on public or synthetic data.
 
 ## Open source
 
@@ -45,7 +45,7 @@ Multi-view geometry · Camera calibration · Stereo vision · Image registration
 ## Selected publications
 
 - Kuo, C.-Y., **Lin, R.-C.**, Chen, T.-Y., & Chiang, P.-J. *Non-contact monitoring of grouper fry weaning in recirculating aquaculture systems: Efficacy of an automated stereo vision system.* Aquacultural Engineering, 116, 102814, 2027 (online 2026). [DOI](https://doi.org/10.1016/j.aquaeng.2026.102814)
-- **Lin, R.-C.**, & Chiang, P.-J. *Optimization of Structured Light System Calibration and Optimal Working Volume Estimation Based on Virtual Simulation Analysis.* Presented at ICASI 2026; proceedings forthcoming.
+- **Lin, R.-C.**, & Chiang, P.-J. *Optimization of Structured Light System Calibration and Optimal Working Volume Estimation Based on Virtual Simulation Analysis.* ICASI 2026.
 - **Lin, R.-C.**, & Chiang, P.-J. *A Low-Cost Multi-Camera System for Full-Tank Fish Fry Counting in Aquaculture.* ICASI 2025, pp. 332–337. [DOI](https://doi.org/10.1049/icp.2025.2563)
 
 ## 關於我
