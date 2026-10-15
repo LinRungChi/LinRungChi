@@ -16,6 +16,8 @@ Since 2018 I have built camera-based measurement systems end to end, from imagin
 - **Structured light and calibration:** a Blender-based virtual structured-light system with ray-traced ground truth, and a "3D precision volume" that maps where a calibration can be trusted (ICASI 2026); a C++ projector–camera system for robotic-arm object segmentation (M.S. thesis).
 - **Neural 3D reconstruction:** COLMAP, instant-ngp and Nerfstudio pipelines for NeRF / 3D Gaussian Splatting in industry projects, extended to robotic grasping and image inspection.
 
+📁 **[Research projects](https://github.com/LinRungChi/research-projects)** — one page per system: the problem, the approach and my contribution.
+
 The repositories below are open-source re-implementations and tooling built on public or synthetic data.
 
 ## Open source
