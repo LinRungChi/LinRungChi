@@ -1,4 +1,4 @@
-# Hi, I'm Rung-Chi Lin
+# Hi, I'm Rung-Chi
 
 **Computer vision · Optical metrology · 3D reconstruction**
 
